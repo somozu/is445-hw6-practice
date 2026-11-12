@@ -1,31 +1,7 @@
 # Streamlit Seattle Weather dashboard
 
-Just an example Streamlit dashboard exploring the classic Seattle Weather dataset.
+Originally forked from visualization of [Seattle Weather dataset](http://demo-seattle-weather.streamlit.app/), but code was nearly completely replaced.
 
-## View it in one click
+## View Streamlit site
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](http://demo-seattle-weather.streamlit.app/)
-
-## Try it on your machine
-
-1. Get the code:
-
-   ```sh
-   $ git clone https://github.com/streamlit/demo-seattle-weather.git
-   ```
-
-2. Start a virtual environment and get the dependencies (requires uv):
-
-   ```sh
-   $ uv venv
-
-   $ .venv/bin/activate
-
-   $ uv sync
-   ```
-
-3. Start the app:
-
-    ```sh
-    $ streamlit run streamlit_app.py
-    ```
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://is445-hw6-practice.streamlit.app/)
